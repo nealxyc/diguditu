@@ -1,10 +1,7 @@
-#summary One-sentence summary of this page.
+
 
 关于嘀图About DiTu
 
-
-
-= Details =
 
 
 嘀图是一个可以直接通过网页向嘀咕发送图片的工具。
