@@ -2,15 +2,10 @@
 
 关于嘀图About DiTu
 
-Add your content here.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
 嘀图是一个可以直接通过网页向嘀咕发送图片的工具。
 
